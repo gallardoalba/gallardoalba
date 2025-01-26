@@ -1,4 +1,4 @@
-## 🌱 Current Interests
+## 🌱 Current interests
 
 ### 1. **[Critical learning theory: on the hidden curriculum](https://github.com/gallardoalba/hidden_curriculum)**
    - **Description**: This project aspires to be a introduction on the Critical Learning Theory and the concept of hidden curriculum, with the aim of pointing out which pedagogical elements are the most appropriate to stimulate critical thinking, the backbone of scientific development. Last but not least, it includes personal reflections from my teaching experiences, both in secondary education and as a lecturer in the Department of Bioinformatics at the Faculty of Freiburg.
