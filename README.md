@@ -8,3 +8,6 @@
 
 ### 3. **[Anti-thesis: dialectical logic and complex biological problems](https://github.com/gallardoalba/anti-thesis)**
    - **Description**: This project intends to provide a comprehensible introduction to the application of dialectical logic on natural sciences. Dialectical logic rooted in the philosophical traditions of Hegel and Marx, emphasizes the dynamic and interconnected nature of reality, where contradictions and oppositions drive change and development. This approach contrasts with classical logic, which often seeks to resolve contradictions in a binary manner. In the context of complex biological problems, dialectical logic offers a valuable framework for understanding the intricate relationships and interactions within biological systems.
+
+> **"The passion for destruction is also a creative passion."**  
+> — Mikhail Bakunin
