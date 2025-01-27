@@ -9,5 +9,8 @@
 ### 3. **[Anti-these: dialektische Logik und komplexe biologische Probleme](https://github.com/gallardoalba/anti-thesis)**
    - **Beschreibung**: Dieses Projekt beabsichtigt, eine verständliche Einführung in die Anwendung der dialektischen Logik auf die Naturwissenschaften zu bieten. Die dialektische Logik, die in den philosophischen Traditionen von Hegel und Marx verwurzelt ist, betont die dynamische und miteinander verbundene Natur der Realität, in der Widersprüche und Gegensätze Veränderungen und Entwicklungen vorantreiben. Im Kontext komplexer biologischer Probleme bietet die dialektische Logik einen wertvollen Rahmen für das Verständnis der komplexen Beziehungen und Interaktionen innerhalb biologischer Systeme.
 
+### 4. Neoliberaler Naturschutz: Technisch-wissenschaftliche Kontrolle der Natur
+   - **Beschreibung**: Projekt in Entwicklung.
+
 > **"Die Leidenschaft für Zerstörung ist auch eine kreative Leidenschaft."**  
 > — Michail Bakunin
