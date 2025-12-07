@@ -12,8 +12,6 @@
 ### 4. **[Neoliberaler Naturschutz: über die technowissenschaftliche Kontrolle der Natur](https://github.com/gallardoalba/neoliberal_conservationism)**
    - **Beschreibung**: Projekt in Entwicklung.
 
-### 📚 Recommended books: [gallardoalba.github.io](gallardoalba.github.io)
-
 > **"Science, as a moral entity existing outside of the universal social life and represented by a corporation of licensed savants, should be liquidated and widely diffused among the masses."**
 > 
 > — Michail Bakunin
