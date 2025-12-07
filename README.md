@@ -9,7 +9,7 @@
 ### 3. **[Anti-these: dialektische Logik und komplexe biologische Probleme](https://github.com/gallardoalba/anti-thesis)**
    - **Beschreibung**: Dieses Projekt beabsichtigt, eine verständliche Einführung in die Anwendung der dialektischen Logik auf die Naturwissenschaften zu bieten. Die dialektische Logik, die in den philosophischen Traditionen von Hegel und Marx verwurzelt ist, betont die dynamische und miteinander verbundene Natur der Realität, in der Widersprüche und Gegensätze Veränderungen und Entwicklungen vorantreiben.
 
-### 4. **[Neoliberaler Naturschutz: über die technowissenschaftliche Kontrolle der Natur](https://github.com/gallardoalba/neoliberal_conservationism)**
+### 4. **[Neoliberaler Naturschutz: über die technowissenschaftliche Kontrolle des Lebens](https://github.com/gallardoalba/neoliberal_conservationism)**
    - **Beschreibung**: Projekt in Entwicklung.
 
 > **"Wissenschaft, als moralische Entität, die außerhalb des universellen gesellschaftlichen Lebens existiert und durch eine Corporation von lizenzierten Gelehrten vertreten wird, sollte liquidiert und weit unter den Massen verbreitet werden."**
