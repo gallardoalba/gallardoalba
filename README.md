@@ -9,7 +9,7 @@
 ### 3. **[Antithesis: dialectical logic and complex biological problems](https://github.com/gallardoalba/anti-thesis)**
 - **Description**: This project aims to provide a comprehensible introduction to the application of dialectical logic to the natural sciences. Dialectical logic, rooted in the philosophical traditions of Hegel and Marx, emphasizes the dynamic and interconnected nature of reality, in which contradictions and opposites drive change and development.
 
-### 4. **[Neoliberal Nature conservation : on the technoscientific control of life](https://github.com/gallardoalba/neoliberal_conservationism)**
+### 4. **[Neoliberal conservationism : on the technoscientific control of nature](https://github.com/gallardoalba/neoliberal_conservationism)**
 - **Description**: Project in development.
 
 > **“Science, as a moral entity existing outside of universal social life and represented by a corporation of licensed scholars, should be liquidated and widely disseminated among the masses.”**
