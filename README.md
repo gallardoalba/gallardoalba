@@ -1,7 +1,7 @@
 ## 🌱 Current interests
 
 ### 0. **[TSENAT: Tsallis Entropy Analysis Toolbox](https://github.com/gallardoalba/TSENAT)**
-- **Description**: TSENAT is an R package for quantifying and modelling the relative isoform-usage diversity across samples. It provides a complementary, orthogonal analytical method to standard differential-expression tools.
+- **Description**: TSENAT is an R package for quantifying and modelling the relative isoform-usage diversity across samples. It provides a complementary, _orthogonal_ analytical method to standard differential-expression tools.
 
 ### 1. **[Critical learning theory: about the hidden curriculum](https://github.com/gallardoalba/hidden_curriculum)**
 - **Description**: This project aims to provide an introduction to critical learning theory and the concept of the hidden curriculum, with the goal of identifying which pedagogical elements are best suited to promoting critical thinking.
