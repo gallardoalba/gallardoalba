@@ -7,7 +7,7 @@
 - **Description**: This project aims to provide an introduction to critical learning theory and the concept of the hidden curriculum, with the goal of identifying which pedagogical elements are best suited to promoting critical thinking.
 
 ### 2. **[Matter and form: on the origin of science](https://github.com/gallardoalba/natural_philosophy)**
-- **Description**: This project aims to provide a detailed description of the origins of natural philosophy, also known as science, understood as the constantly evolving process of knowledge generation based on observation, evidence, and criticism. In particular, it focuses on the birth of science in the city of Miletus and its subsequent development under the influence of the Pythagorean philosophers, during which the idea of science as a mathematical understanding of nature reemerged.
+- **Description**: This project aims to provide a detailed description of the origins of natural philosophy, also known as science, understood as the constantly evolving process of knowledge generation based on observation, evidence, and criticism.
 
 ### 3. **[Antithesis: dialectical logic and complex biological problems](https://github.com/gallardoalba/anti-thesis)**
 - **Description**: This project aims to provide a comprehensible introduction to the application of dialectical logic to the natural sciences. Rooted in the philosophical tradition of Hegel, dialectical logic emphasizes the dynamic and interconnected nature of reality, in which contradictions and opposites drive change and development.
