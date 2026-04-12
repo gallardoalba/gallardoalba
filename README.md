@@ -4,7 +4,7 @@
 - **Description**: TSENAT is an R package for quantifying and modelling isoform-usage complexity. It provides a complementary, _orthogonal_ analytical method to standard differential-expression tools.
 
 ### 1. **[Matter and form: on the origin of Science](https://github.com/gallardoalba/natural_philosophy)**
-- **Description**: This project aims to provide a detailed description of the origins of natural philosophy, also known as science, understood as the constantly evolving process of knowledge generation based on observation, evidence, and criticism.
+- **Description**: This project aims to provide a detailed description of the origins of natural philosophy, also known as Science, understood as the constantly evolving process of knowledge generation based on observation, evidence, and criticism.
 
 ### 2. **[Antithesis: dialectical logic and complex biological problems](https://github.com/gallardoalba/anti-thesis)**
 - **Description**: This project aims to provide a comprehensible introduction to the application of dialectical logic to the natural sciences. Rooted in the philosophical tradition of Hegel, dialectical logic emphasizes the dynamic and interconnected nature of reality, in which contradictions and opposites drive change and development.
