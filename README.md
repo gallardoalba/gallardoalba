@@ -12,7 +12,7 @@
 ### 3. **[Critical learning theory: about the hidden curriculum](https://github.com/gallardoalba/hidden_curriculum)**
 - **Description**: This project aims to provide an introduction to critical learning theory and the concept of the hidden curriculum, with the goal of identifying which pedagogical elements are best suited to promoting critical thinking.
 
-### 4. **[Neoliberal conservationism : on the technoscientific control of Nature](https://github.com/gallardoalba/neoliberal_conservationism)**
+### 4. **[Neoliberal conservationism: on the technoscientific control of Nature](https://github.com/gallardoalba/neoliberal_conservationism)**
 - **Description**: Project in development.
 
 > **“Science, as a moral entity existing outside of universal social life and represented by a corporation of licensed scholars, should be liquidated and widely disseminated among the masses.”**
