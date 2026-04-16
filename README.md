@@ -6,7 +6,7 @@
 ### 1. **[Matter and form: on the origin of Science](https://github.com/gallardoalba/natural_philosophy)**
 - **Description**: This project aims to provide a detailed description of the origins of Natural Philosophy, also known as Science, understood as the constantly evolving process of knowledge generation based on observation, evidence, and criticism.
 
-### 2. **[Antithesis: dialectical logic and complex biological problems](https://github.com/gallardoalba/anti-thesis)**
+### 2. **[Anti-thesis: dialectical logic and complex biological problems](https://github.com/gallardoalba/anti-thesis)**
 - **Description**: This project aims to provide a comprehensible introduction to the application of dialectical logic to Natural Science. Rooted in the philosophical tradition of Hegel, dialectical logic emphasizes the dynamic and interconnected nature of reality, in which contradictions and opposites drive change and development.
 
 ### 3. **[Critical learning theory: about the hidden curriculum](https://github.com/gallardoalba/hidden_curriculum)**
