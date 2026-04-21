@@ -15,6 +15,6 @@
 ### 4. **[Neoliberal conservationism: on the technoscientific control of Nature](https://github.com/gallardoalba/neoliberal_conservationism)**
 - **Description**: Project in development.
 
-> **“Science, as a moral entity existing outside of universal social life and represented by a corporation of licensed scholars, should be liquidated and widely disseminated among the masses.”**
+> **“Science is essentially an anarchic enterprise: theoretical anarchism is more humanitarian and more likely to encourage progress than its law-and-order alternatives.”**
 >
-> — Mikhail Bakunin
+> -- Paul Feyerabend (1993). *Against Method*
