@@ -17,4 +17,4 @@
 
 > **“Science is essentially an anarchic enterprise: theoretical anarchism is more humanitarian and more likely to encourage progress than its law-and-order alternatives.”**
 >
-> -- Paul Feyerabend, *Against Method* (1993)
+> -- Paul Feyerabend, *Against Method* (1975)
