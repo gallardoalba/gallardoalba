@@ -10,7 +10,7 @@
 - **Description**: This project aims to provide a comprehensible introduction to the application of dialectical logic to Natural Science. Rooted in the philosophical tradition of Hegel, dialectical logic emphasizes the dynamic and interconnected nature of reality, in which contradictions and opposites drive change and development.
 
 ### 3. **[Critical Learning Theory: about the Hidden Curriculum](https://github.com/gallardoalba/hidden_curriculum)**
-- **Description**: This project aims to provide an introduction to Critical Learning Theory and the concept of Hidden Curriculum, with the goal of identifying which pedagogical elements are best suited to promoting critical thinking.
+- **Description**: This project aims to provide an introduction to Critical Learning Theory and the concept of Hidden Curriculum, with the goal of identifying which pedagogical elements are best suited to promote critical thinking.
 
 ### 4. **[Neoliberal conservationism: on the technoscientific control of Nature](https://github.com/gallardoalba/neoliberal_conservationism)**
 - **Description**: Project in development.
