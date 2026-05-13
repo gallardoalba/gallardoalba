@@ -12,7 +12,7 @@
 ### 3. **[Critical Learning Theory: about the Hidden Curriculum](https://github.com/gallardoalba/hidden_curriculum)**
 - **Description**: This project aims to provide an introduction to Critical Learning Theory and the concept of Hidden Curriculum, with the goal of identifying which pedagogical elements are best suited to promote critical thinking.
 
-### 4. **[Neoliberal conservationism: on the technoscientific control of Nature](https://github.com/gallardoalba/neoliberal_conservationism)**
+### 4. **[Neoliberal conservationism: on the technoscientific control of Life](https://github.com/gallardoalba/neoliberal_conservationism)**
 - **Description**: Project in development.
 
 > **“Science is essentially an anarchic enterprise: theoretical anarchism is more humanitarian and more likely to encourage progress than its law-and-order alternatives.”**
