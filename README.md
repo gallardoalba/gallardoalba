@@ -7,10 +7,10 @@
 - **Description**: This project aims to provide a detailed description of the origins of Natural Philosophy, also known as Science, understood as the constantly evolving process of knowledge generation based on observation, evidence, and criticism.
 
 ### 2. **[Anti-thesis: dialectical logic and complex biological problems](https://github.com/gallardoalba/anti-thesis)**
-- **Description**: This project aims to provide a comprehensible introduction to the application of dialectical logic to Natural Science. Rooted in the philosophical tradition of Hegel, dialectical logic emphasizes the dynamic and interconnected nature of reality, in which contradictions and opposites drive change and development.
+- **Description**: The intention of this project is to provide a comprehensible introduction to the application of dialectical logic to Natural Science. Rooted in the philosophical tradition of Hegel, dialectical logic emphasizes the dynamic and interconnected nature of reality, in which contradictions and opposites drive change and development.
 
 ### 3. **[Critical Learning Theory: about the Hidden Curriculum](https://github.com/gallardoalba/hidden_curriculum)**
-- **Description**: This project aims to provide an introduction to Critical Learning Theory and the concept of Hidden Curriculum, with the goal of identifying which pedagogical elements are best suited to promote critical thinking.
+- **Description**: This project aims to introduce the Critical Learning Theory and the concept of Hidden Curriculum, with the goal of identifying which pedagogical elements are best suited to promote critical thinking.
 
 ### 4. **[Neoliberal conservationism: on the technoscientific control of Life](https://github.com/gallardoalba/neoliberal_conservationism)**
 - **Description**: Project in development.
