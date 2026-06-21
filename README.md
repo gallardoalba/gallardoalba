@@ -14,7 +14,7 @@
 
 ### 4. **[Neoliberal conservationism: on the technoscientific control of Life](https://github.com/gallardoalba/neoliberal_conservationism)**
 - **Description**: This essay aims to combat the neoliberal conservationism ideology, that is, the consideration that throught technoscience is possible to manage the ecological collapse through expert, metrics-based control.
-- 
+  
 > **“Science is essentially an anarchic enterprise: theoretical anarchism is more humanitarian and more likely to encourage progress than its law-and-order alternatives.”**
 >
 > -- Paul Feyerabend, *Against Method* (1975)
