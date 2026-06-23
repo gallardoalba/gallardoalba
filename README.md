@@ -13,7 +13,7 @@
 - **Description**: This project aims to introduce the Critical Learning Theory and the concept of Hidden Curriculum, with the goal of identifying which pedagogical elements are best suited to promote critical thinking.
 
 ### 4. **[Neoliberal-conservationism: on the technoscientific control of Life](https://github.com/gallardoalba/neoliberal_conservationism)**
-- **Description**: This essay aims to combat the neoliberal-conservationism ideology, that is, the consideration that throught technoscience is possible to manage the ecological collapse through expert, metrics-based control.
+- **Description**: This essay aims to combat the neoliberal-conservationism ideology, that is, the consideration that throught technoscience is possible to manage the ecological collapse, whilst, in an act of utter irrationality, sidestepping the root cause, that is, the dominant system of production.
   
 > **“Science is essentially an anarchic enterprise: theoretical anarchism is more humanitarian and more likely to encourage progress than its law-and-order alternatives.”**
 >
