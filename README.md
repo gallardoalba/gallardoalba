@@ -1,5 +1,9 @@
 ## 🌱 Current interests
 
+> **"In the measure in which the advanced industrial society tends to be a totalitarian system, ideological differences are reduced to psychological differences."**
+>
+> Herbert Marcuse, *One-Dimensional Man* (1964)
+
 ### 0. **[TSENAT: Tsallis Entropy Analysis Toolbox](https://github.com/gallardoalba/TSENAT)**
 - **Description**: TSENAT is a R package for quantifying and modelling isoform-usage complexity. It provides a complementary, _orthogonal_ analytical method to standard differential-expression tools.
 
