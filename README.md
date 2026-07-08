@@ -1,4 +1,4 @@
-## 🌱 Manifesto
+## 🌱 MANIFESTO
 
 > **"In the measure in which the advanced industrial society tends to be a totalitarian system, ideological differences are reduced to psychological differences."**
 >
