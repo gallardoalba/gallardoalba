@@ -1,7 +1,7 @@
 ## 🌱 MANIFESTO
 
 ### 0. **[TSENAT: Tsallis Entropy Analysis Toolbox](https://github.com/gallardoalba/TSENAT)**
-- **Description**: TSENAT is a R package for quantifying and modelling isoform-usage complexity. It provides a complementary, _orthogonal_ analytical method to standard differential-expression tools.
+- **Description**: TSENAT is a Bioconductor package for quantifying and modelling isoform-usage complexity. It provides a complementary, _orthogonal_ analytical method to standard differential-expression tools.
 
 ### 1. **[Critical Learning Theory: about the Hidden Curriculum](https://github.com/gallardoalba/hidden_curriculum)**
 - **Description**: This project aims to introduce the Critical Learning Theory and the concept of Hidden Curriculum, with the goal of identifying which pedagogical elements are best suited to promote critical thinking.
